@@ -4,12 +4,25 @@
     <package name="MRL_Render_Mode_GUI" type="script" desc="GUI for Render Mode selection">
       <version name="1.0.0" author="Travis Loizos" time="2026-01-18">
         <source>https://raw.githubusercontent.com/travisloizosguitar-studio/MetalRiffLab-ReaPack/main/Scripts/MRL_Render_Mode_GUI.lua</source>
+        <reapack>
+          <type>ReaScript</type>
+          <provides>
+            <file>MIDI Editor/MRL_Render_Mode_GUI.lua</file>
+          </provides>
+        </reapack>
       </version>
     </package>
     <package name="MRL_Queue_All_Presets" type="script" desc="Queue all three render modes using last settings">
       <version name="1.0.0" author="Travis Loizos" time="2026-01-18">
         <source>https://raw.githubusercontent.com/travisloizosguitar-studio/MetalRiffLab-ReaPack/main/Scripts/MRL_Queue_All_Presets.lua</source>
+        <reapack>
+          <type>ReaScript</type>
+          <provides>
+            <file>MIDI Editor/MRL_Queue_All_Presets.lua</file>
+          </provides>
+        </reapack>
       </version>
     </package>
   </category>
 </index>
+
