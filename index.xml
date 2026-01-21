@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Metal Riff Lab">
+<index version="1" name="Metal Riff Lab" author="Travis Loizos" desc="Metal Riff Lab ReaScripts Collection">
   <category name="Metal Riff Lab (v2)">
     <package name="MRL_Render_Mode_GUI" type="script" desc="GUI for Render Mode selection">
       <version name="1.0.0" author="Travis Loizos" time="2026-01-18">
@@ -14,6 +14,7 @@
     </package>
   </category>
 </index>
+
 
 
 
